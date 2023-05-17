@@ -4,7 +4,7 @@
 - responsive UI Homepage, Sport, Sidemenu, News, bottom Navbar Appbar etc
 - Push Notification (Background, Foreground) Using Firebase Cloud Messaging(FCM)(Firebase Notification)
 - State management using Provider to Add Product and remove product from cart( On Sport Page)
-- Call News Api to display news (News Page)
+- Call News Api to display news (News Page) (API expire soon) 
 
 
 <img src="https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/30fac739-bd08-482b-a7c0-1f1a6bd5c52d" width="300">
@@ -15,3 +15,4 @@
 <img src="https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/c1847d36-ff8a-4f47-b16f-23aaf79552ac.type" width="300">
 <img src="https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/55392a81-d6b0-4704-8a93-52f77ab53dae.type" width="300">
 <img src="https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/0a91132e-e770-4233-a736-6651405abad5.type" width="300">
+<img src="https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/3d7fb718-b231-4f26-a0b8-8cf10f2ab2ad.type" width="300">
