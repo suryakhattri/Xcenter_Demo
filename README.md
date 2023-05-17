@@ -8,5 +8,5 @@
 
 
 
-![Screenshot_20230517_122754](https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/1e36c830-6886-4028-8ae9-25507a166713)
-![Screenshot_20230517_122829](https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/d62ef31c-b67a-4534-a3b9-3233accf1930)
+![Screenshot_20230517_122754](https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/1e36c830-6886-4028-8ae9-25507a166713|height=100px)
+![Screenshot_20230517_122829](https://github.com/suryakhattri/Xcenter_Demo/assets/13628097/d62ef31c-b67a-4534-a3b9-3233accf1930|height=100px)
