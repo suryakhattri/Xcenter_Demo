@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756669812273",
+    "project_id": "xcenterdemo-a4e82",
+    "storage_bucket": "xcenterdemo-a4e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756669812273:android:c55c99af9f86804575cf10",
+        "android_client_info": {
+          "package_name": "com.example.xcenter_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756669812273-jvs3v6e1jbpovrdnnl13fl6geuhflhcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnpepaFib-uTdSlwMOxQ1sPnqND_8hsRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756669812273-jvs3v6e1jbpovrdnnl13fl6geuhflhcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
