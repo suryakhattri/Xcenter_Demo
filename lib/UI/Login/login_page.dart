@@ -249,8 +249,9 @@ class _LoginState extends State<Login> {
                                     setState(() {
                                       isApiCallProcess = true;
                                     });
+                                    Navigator.push(context, MaterialPageRoute(builder: (context)=>  Home()));
                                   }
-                                   Navigator.push(context, MaterialPageRoute(builder: (context)=>  Home()));
+
                                 },
                                 minWidth: MediaQuery.of(context).size.width,
                                 height: 50,

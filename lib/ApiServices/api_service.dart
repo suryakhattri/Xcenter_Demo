@@ -5,7 +5,7 @@ import 'package:xcenter_demo/Model/news_model.dart';
 
 class AppUrl {
   static const String liveBaseURL =
-      "https://newsapi.org/v2/everything?q=tesla&from=2023-04-15&sortBy=publishedAt&apiKey=de02f4c6f60f4ae6a9d09e1ebce8ffb8";
+      "https://newsapi.org/v2/everything?q=tesla&from=2023-04-17&sortBy=publishedAt&apiKey=f95100d3689a4f378c075a20e16ed129";
 
 // static const String baseURL = liveBaseURL;
 // static const String login = baseURL + "/session";

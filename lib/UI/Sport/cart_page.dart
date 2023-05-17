@@ -31,7 +31,6 @@ class MyCart extends StatelessWidget {
 class _CartList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-
     var itemNameStyle = Theme.of(context).textTheme.titleLarge;
     var cart = context.watch<CartModel>();
 
@@ -39,11 +38,16 @@ class _CartList extends StatelessWidget {
       itemCount: cart.items.length,
       itemBuilder: (context, index) => ListTile(
         leading: const Icon(Icons.done),
-        trailing: IconButton(
-          icon: const Icon(Icons.remove_circle_outline),
+        trailing: OutlinedButton(
           onPressed: () {
             cart.remove(cart.items[index]);
           },
+          child: Text(
+            'Delete',
+            style: TextStyle(color: Colors.black),
+          ),
+
+          //other properties
         ),
         title: Text(
           cart.items[index].name,
@@ -58,7 +62,7 @@ class _CartTotal extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var hugeStyle =
-    Theme.of(context).textTheme.displayLarge!.copyWith(fontSize: 48);
+        Theme.of(context).textTheme.displayLarge!.copyWith(fontSize: 48);
 
     return SizedBox(
       height: 200,
